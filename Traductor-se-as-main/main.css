@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+
+body{
+    font-family: 'Exo 2', sans-serif;
+}
+
+#sec-traducir{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contenedores-traslate{
+    margin: 11px;
+}
+
+#seccion-boton, #seccion-reset{
+    display: flex;
+    justify-content: center;
+}
+
+.resultado{
+    display: flex;
+    /* flex-direction: row; */
+    /* align-content: stretch; */
+    justify-content: center;
+}
+
+.resultado img{
+    width: 45px;
+}
+
